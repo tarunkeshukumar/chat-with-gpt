@@ -1,8 +1,8 @@
-# Chat with GPT - Readme
+<h1 align="center">Chat-With-GPT - Readme</h1>
 
-![Chat With GPT](project_image.png)
+![Chat-With-GPT](demo.png)
 
-Welcome to Chat With GPT! This project allows users to engage in interactive and dynamic conversations with an AI language model powered by OpenAI's GPT-3.5. It's built using ReactJS and requires an OpenAI API key to function effectively.
+Welcome to Chat-With-GPT ! This project allows users to engage in interactive and dynamic conversations with an AI language model powered by OpenAI's GPT-3.5. It's built using ReactJS and requires an OpenAI API key to function effectively.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -14,7 +14,7 @@ Welcome to Chat With GPT! This project allows users to engage in interactive and
 - [License](#license)
 
 ## Introduction
-The Chat with GPT project enables you to experience cutting-edge AI language capabilities through OpenAI's GPT-3.5 model. Users can have natural and dynamic conversations with the AI by entering messages in the chat interface.
+The Chat-With-GPT project enables you to experience cutting-edge AI language capabilities through OpenAI's GPT-3.5 model. Users can have natural and dynamic conversations with the AI by entering messages in the chat interface.
 
 ## Installation
 To set up the project locally, follow these steps:
@@ -39,14 +39,14 @@ Before running the application, make sure you have obtained an API key from Open
 
 To run the project locally, use the following command:
 ```
-REACT_APP_OPENAI_API_KEY=your_openai_api_key npm start
+OPENAI_API_KEY=your_openai_api_key npm start
 ```
 Replace `your_openai_api_key` with the actual API key you obtained from OpenAI.
 
 Once the development server is up and running, open your web browser and navigate to `http://localhost:3000` to access the Chat with GPT application.
 
 ## Configuration
-You can customize certain aspects of the Chat with GPT project by modifying the configuration file located at `src/config.js`. Here, you can change settings related to the AI language model, chat interface, and more.
+You can customize certain aspects of the Chat-With-GPT project by modifying the configuration file located at `src/openai.js`. Here, you can change settings related to the AI language model, chat interface, and more.
 
 ## Limitations
 Please be aware of the following limitations of this project:
@@ -65,8 +65,8 @@ We welcome contributions to enhance the project! If you find any issues or have 
 When contributing to this project, please ensure that your code adheres to the existing code style and is well-documented.
 
 ## License
-The Chat with GPT project is licensed under the [MIT License](LICENSE).
+The Chat-With-GPT project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Thank you for using Chat with GPT! If you have any questions or need support, feel free to contact the project maintainers or create an issue on the repository. Happy chatting with AI!
+Thank you for using Chat-Qith-GPT! If you have any questions or need support, feel free to contact the project maintainers or create an issue on the repository. Happy chatting with AI!
