@@ -1,4 +1,4 @@
-<h1 align="center">Chat-With-GPT - Readme</h1>
+<h1 align="center">Chat-With-GPT </h1>
 
 ![Chat-With-GPT](demo.png)
 
